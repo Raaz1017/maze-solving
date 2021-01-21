@@ -1,0 +1,14 @@
+{
+  "name": "maze_solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "solve": "node ./lib/MazeSolver.js"
+  },
+  "author": "Rastsislau Azaronak",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "3.0.1"
+  }
+}
